@@ -33,7 +33,7 @@ git pull
 *For more information about Version Control, git, and Github please read this excellent guide: [Introduction to git and Github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)*
 
 
-## 📚 Official Resources
+## 📚 Resources
 
 * ### [Data-X Official Website](https://data-x.blog/)
 * #### [Data-X Network](https://data-x.blog/advisors/)
