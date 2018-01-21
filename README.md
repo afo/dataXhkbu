@@ -2,7 +2,7 @@
 ### January 26 - 27 2018
 
 <a href='https://data-x.blog'>
-![](https://img.shields.io/badge/Data--X-Berkeley-yellow.svg)
+<img src='https://img.shields.io/badge/Data--X-Berkeley-yellow.svg'>
 </a>
 
 This is the official Github repository for the 2 day Masterclass.
