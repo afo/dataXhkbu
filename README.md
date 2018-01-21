@@ -82,10 +82,9 @@ List of Dependencies:
 
 [Apache2](https://www.apache.org/licenses/LICENSE-2.0)
 
+<br><br>
 
-
-<p style='text-align:center'>
-  <br>
+<p align='center'>
    <img src="./imgs/dx_logo.png" alt="Data-X Instructors" width='250px'>
-  <br>
 </p>
+<br>
