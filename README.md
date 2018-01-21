@@ -84,8 +84,8 @@ List of Dependencies:
 
 
 
-<div style='align:center'>
+< style='text-align:center'>
   <br>
    <img src="./imgs/dx_logo.png" alt="Data-X Instructors" width='250px'>
   <br>
-</div>
+</p>
