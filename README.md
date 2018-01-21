@@ -7,6 +7,19 @@ This is the official Github repository for the 2 day Masterclass.
 <img src='https://img.shields.io/badge/Data--X-Berkeley-yellow.svg'>
 </a>
 
+## 📚 Resources
+
+* ### [Dropbox link to all Material](https://www.dropbox.com/sh/rb6o86lz0l8moli/AABlV-D-R5I4R6NTTqNnzDNoa?dl=0)
+* #### <a href='https://join.slack.com/t/dataxhkbu/shared_invite/enQtMzAyMDE2MjE0NDM1LTFmNjk1NDkzZTkyYzM3NzliOGU5NGJiNDBkMGM5ODVhNjMzMzQwZGFkNTkyNGQwOTQwMWMwYmNkZWFmMTEyNDk><img src='./imgs/slack.png' width='60px'> Join the Slack Channel to communicate with us directly </a>
+* ### [Data-X Official Website](https://data-x.blog/)
+* ##### [Data-X Network](https://data-x.blog/advisors/)
+* ##### [Data-X Resources](https://data-x.blog/resources/)
+* ##### [Data-X Projects](https://data-x.blog/projects/)
+
+
+
+
+
 ___
 
 ## 📝 Masterclass Schedule
@@ -35,18 +48,6 @@ git pull
 ```
 
 *For more information about Version Control, git, and Github please read this excellent guide: [Introduction to git and Github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)*
-
-You can also download the material from Dropbox:
-
-### [Dropbox link to all Material](https://www.dropbox.com/sh/rb6o86lz0l8moli/AABlV-D-R5I4R6NTTqNnzDNoa?dl=0)
-
-
-## 📚 Resources
-
-* ### [Data-X Official Website](https://data-x.blog/)
-* #### [Data-X Network](https://data-x.blog/advisors/)
-* #### [Data-X Resources](https://data-x.blog/resources/)
-* #### [Data-X Projects](https://data-x.blog/projects/)
 
 ---
 
