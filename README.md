@@ -36,6 +36,10 @@ git pull
 
 *For more information about Version Control, git, and Github please read this excellent guide: [Introduction to git and Github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)*
 
+You can also download the material from Dropbox:
+
+### [Dropbox link to all Material](https://www.dropbox.com/sh/rb6o86lz0l8moli/AABlV-D-R5I4R6NTTqNnzDNoa?dl=0)
+
 
 ## 📚 Resources
 
@@ -76,3 +80,11 @@ List of Dependencies:
 ## 🎓 License
 
 [Apache2](https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+<h1 align="center">
+  <br>
+   <img src="./imgs/dx_logo.png" alt="Data-X Instructors" width='300px'>
+  <br>
+</h1>
