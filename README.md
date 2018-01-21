@@ -61,8 +61,8 @@ git pull
 
 ## 📧 Contact us
 
-- **Ikhlaq Sidhu:** sidhu @ berkeley edu
-- **Alexander Fred Ojala:** afo @ berkeley edu
+- **Ikhlaq Sidhu:** sidhu @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
+- **Alexander Fred Ojala:** afo @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/alexanderfo/)
 
 ## ❤️ Credits & Thanks
 
