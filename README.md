@@ -1,9 +1,20 @@
-# Data-X 2 Day Masterclass at HKBU
+## Data-X 2 Day Masterclass at HKBU
 ### January 26 - 27 2018
 
-This is the official Github repository where we share the material of the bootcamp.
+This is the official Github repository for the 2 day Masterclass.
 
-**
+___
+
+## 📝 Official Schedule
+
+**Time** | **Day 1: Breadth**  | **Day 2: Depth** |
+:--|:--|:-
+**Session1** <br> 9.00 - 10.20am | Program Introduction with Objectives (20mins)<br><br>Executive Level Overview of AI, ML, and Research (40mins)<br><br>Introduction to tools and installations (20mins) | Innovation Leadership Overview (30mins)<br><br>Getting and Working with Data (50mins)
+**Session2** <br> 10.40 - noon | **Define Projects:**<br>A. Learning Basics<br>B. Defining Work Project<br>C. Improving Existing Project<br><br>Finalize projects | Architecture Discussion and Feedback with Lowtech demo presentations (80mins)
+**Lunch** <br> 12.00 - 1.30pm | *Possible Discussion and Work Session* | *Possible Discussion and Work Session*
+**Session3** <br> 1.30 - 3.00pm | **Standard AI Development Stack:**<br>Numpy, Pandas, Matplotlib<br><br>Includes a Breakout HW Session | **Advanced Topics** (75mins)<br>- Neural Networks<br>- TensorFlow<br>- Computer Vision<br>- Keras and Cats vs Dogs!<br><br>Q&A on Advanced topics in Data Science (15mins)
+**Session4** <br> 1.30 - 3.00pm | **Machine Learning in Python:**<br>- Real World Data and Example (60 mins)<br>- ML Algorithm Comparison (20mins)<br>- Reflection and Q&A (10mins) |**Next Steps:**<br>- Learning Summary and Discussion<br>- Future Roadmap<br>- Staying Connected
+
 
 ## ▶️ Usage
 
