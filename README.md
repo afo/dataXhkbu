@@ -5,7 +5,7 @@ This is the official Github repository for the 2 day Masterclass.
 
 ___
 
-## 📝 Official Schedule
+## 📝 Masterclass Schedule
 
 **Time** | **Day 1: Breadth**  | **Day 2: Depth** |
 :--|:--|:-
