@@ -1,7 +1,9 @@
 ## Data-X 2 Day Masterclass at HKBU
 ### January 26 - 27 2018
 
-This is the official Github repository for the 2 day ![](https://img.shields.io/badge/Data--X-Berkeley-yellow.svg) Masterclass.
+![](https://img.shields.io/badge/Data--X-Berkeley-yellow.svg) 
+
+This is the official Github repository for the 2 day Masterclass.
 
 ___
 
