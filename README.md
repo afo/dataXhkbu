@@ -85,6 +85,6 @@ List of Dependencies:
 <br><br>
 
 <p align='center'>
-   <img src="./imgs/dx_logo.png" alt="Data-X Instructors" width='250px'>
+   <a href='https:data-x.blog'><img src="./imgs/dx_logo.png" alt="Data-X Instructors" width='250px'></a>
 </p>
 <br>
