@@ -22,11 +22,14 @@ git pull
 *For more information about Version Control, git, and Github please read this excellent guide: [Introduction to git and Github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)*
 
 
-## 📚 Resources
+## 📚 Official Resources
 
-* ### [Data-X Course Website](https://data-x.blog/)
+* ### [Data-X Official Website](https://data-x.blog/)
+* #### [Data-X Network](https://data-x.blog/advisors/)
+* #### [Data-X Resources](https://data-x.blog/resources/)
+* #### [Data-X Projects](https://data-x.blog/projects/)
 
-## ❤️ Credits
+## ❤️ Credits & Thanks
 
 List of Dependencies:
 
