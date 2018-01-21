@@ -9,8 +9,8 @@ This is the official Github repository for the 2 day Masterclass.
 
 ## 📚 Resources
 
-* ### [Dropbox link to all Material](https://www.dropbox.com/sh/rb6o86lz0l8moli/AABlV-D-R5I4R6NTTqNnzDNoa?dl=0)
-* ### <a href='https://join.slack.com/t/dataxhkbu/shared_invite/enQtMzAyMDE2MjE0NDM1LTFmNjk1NDkzZTkyYzM3NzliOGU5NGJiNDBkMGM5ODVhNjMzMzQwZGFkNTkyNGQwOTQwMWMwYmNkZWFmMTEyNDk'> Join the `dataXhkbu` Slack Channel   <img src='./imgs/slack.png' width='16px'></a>
+* ### [Dropbox Link to all Material](https://www.dropbox.com/sh/rb6o86lz0l8moli/AABlV-D-R5I4R6NTTqNnzDNoa?dl=0)
+* ### <a href='https://join.slack.com/t/dataxhkbu/shared_invite/enQtMzAyMDE2MjE0NDM1LTFmNjk1NDkzZTkyYzM3NzliOGU5NGJiNDBkMGM5ODVhNjMzMzQwZGFkNTkyNGQwOTQwMWMwYmNkZWFmMTEyNDk' target='_blank'> `dataXhkbu` Slack Channel   <img src='./imgs/slack.png' width='16px'></a>
 * ### [Data-X Official Website](https://data-x.blog/)
 * ##### [Data-X Network](https://data-x.blog/advisors/)
 * ##### [Data-X Resources](https://data-x.blog/resources/)
@@ -61,10 +61,10 @@ git pull
 
 ## 📧 Contact us
 
-- **Ikhlaq Sidhu:** sidhu @ berkeley edu
-- **Alexander Fred Ojala:** afo @ berkeley edu
+- **Ikhlaq Sidhu:** sidhu @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
+- **Alexander Fred Ojala:** afo @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/alexanderfo/))
 
-## ❤️ Credits & Thanks
+## ❤️ Credits
 
 List of Dependencies:
 
@@ -82,10 +82,9 @@ List of Dependencies:
 
 [Apache2](https://www.apache.org/licenses/LICENSE-2.0)
 
+<br><br>
 
-
-<h2 align="center">
-  <br>
-   <img src="./imgs/dx_logo.png" alt="Data-X Instructors" width='250px'>
-  <br>
-</h2>
+<p align='center'>
+   <a href='https://data-x.blog'><img src="./imgs/dx_logo.png" alt="Data-X Instructors" width='250px'></a>
+</p>
+<br>
