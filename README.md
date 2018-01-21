@@ -1,5 +1,5 @@
 ## Data-X 2 Day Masterclass at HKBU
-### January 26 - 27 2018
+### January 25 - 26, 2018
 
 This is the official Github repository for the 2 day Masterclass.
 
