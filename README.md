@@ -44,6 +44,19 @@ git pull
 * #### [Data-X Resources](https://data-x.blog/resources/)
 * #### [Data-X Projects](https://data-x.blog/projects/)
 
+---
+
+<h1 align="center">
+  <br>
+   <img src="./imgs/instructors.png" alt="Data-X Instructors" />
+  <br>
+</h1>
+
+## 📧 Contact us
+
+- **Ikhlaq Sidhu:** sidhu --at-- berkeley edu
+- **Alexander Fred Ojala** afo --at-- berkeley edu
+
 ## ❤️ Credits & Thanks
 
 List of Dependencies:
