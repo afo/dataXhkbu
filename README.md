@@ -1,5 +1,5 @@
 <a href="https://data-x.blog/">
-   <img src="./imgs/dx_logo.png" alt="Data-X Instructors" alt="data-x logo" title="Data-x" align="bottom-right" height="90" />
+   <img src="./imgs/dx_logo.png" alt="Data-X Instructors" alt="data-x logo" title="Data-x" align="bottom-right" height="100" />
 </a>
 
 2 Day Masterclass at HKBU
@@ -42,7 +42,7 @@ ___
 **Session2** <br> 10.40 - noon | **Define Projects:**<br>A. Learning Basics<br>B. Defining Work Project<br>C. Improving Existing Project<br><br>Finalize projects | Architecture Discussion and Feedback with Lowtech demo presentations (80mins)
 **Lunch** <br> 12.00 - 1.30pm | *Possible Discussion and Work Session* | *Possible Discussion and Work Session*
 **Session3** <br> 1.30 - 3.00pm | **Standard AI Development Stack:**<br>Numpy, Pandas, Matplotlib<br><br>Includes a Breakout HW Session | **Advanced Topics** (75mins)<br>- Neural Networks<br>- TensorFlow<br>- Computer Vision<br>- Keras and Cats vs Dogs!<br><br>Q&A on Advanced topics in Data Science (15mins)
-**Session4** <br> 1.30 - 3.00pm | **Machine Learning in Python:**<br>- Real World Data and Example (60 mins)<br>- ML Algorithm Comparison (20mins)<br>- Reflection and Q&A (10mins) |**Next Steps:**<br>- Learning Summary and Discussion<br>- Future Roadmap<br>- Staying Connected
+**Session4** <br> 3.30 - 5.00pm | **Machine Learning in Python:**<br>- Real World Data and Example (60 mins)<br>- ML Algorithm Comparison (20mins)<br>- Reflection and Q&A (10mins) |**Next Steps:**<br>- Learning Summary and Discussion<br>- Future Roadmap<br>- Staying Connected
 
 
 ## ▶️ Usage
@@ -76,7 +76,7 @@ git pull
 - **Ikhlaq Sidhu:** sidhu @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
 - **Alexander Fred Ojala:** afo @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/alexanderfo/))
 
-## About the Bootcamp
+## 📝 About the Bootcamp
 
 Today, the world is literally reinventing itself with Data and AI.  However, neither leading companies nor the world’s top students have the complete knowledge set to participate in this newly developing world.  This 2-day course provides the tools and understanding to boost any student’s ability to create the emerging data applications of the future.  This bootcamp is suitable for individuals interested in hands-on practical understanding of data science and application opportunities in new ventures, industry project areas, and potential support of research with data technologies.
 
