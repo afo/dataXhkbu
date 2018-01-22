@@ -1,11 +1,23 @@
-## Data-X 2 Day Masterclass at HKBU
+<a href="https://data-x.blog/">
+   <img src="./imgs/dx_logo.png" alt="Data-X Instructors" alt="data-x logo" title="Data-x" align="bottom-right" height="90" />
+</a>
+
+2 Day Masterclass at HKBU
+======================
+
+
 ### January 25 - 26, 2018
 
 This is the official Github repository for the 2 day Masterclass.
 
+#### High level outline:
+* **Day 1:** Introduction to AI and Overview, Project Setup, Code Samples and Introduction to Data Analytics,  Business & Venture Applications
+* **Day 2:** Innovation Leadership, Getting Data / Webscraping, Project Updates and Architecture, Deep Learning and Convolutional Neural Networks, Reflection and Next Steps
+
 <a href='https://data-x.blog'>
 <img src='https://img.shields.io/badge/Data--X-Berkeley-yellow.svg'>
 </a>
+
 
 ## 📚 Resources
 
@@ -63,6 +75,13 @@ git pull
 
 - **Ikhlaq Sidhu:** sidhu @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
 - **Alexander Fred Ojala:** afo @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/alexanderfo/))
+
+## About the Bootcamp
+
+Today, the world is literally reinventing itself with Data and AI.  However, neither leading companies nor the world’s top students have the complete knowledge set to participate in this newly developing world.  This 2-day course provides the tools and understanding to boost any student’s ability to create the emerging data applications of the future.  This bootcamp is suitable for individuals interested in hands-on practical understanding of data science and application opportunities in new ventures, industry project areas, and potential support of research with data technologies.
+
+This bootcamp is set of intensive topics selected from the the Applied Data Science with Venture Applications Course at UC Berkeley (IEOR 135/290).  The bootcamp is a high paced immersion into data and data science principles in a uniquely practical approach.  The 2-day program contains theory segments, code samples in Python and in Jupyter Notebooks, and a real-life wide ranging project that can be started over the first 2 days with guidance for instructors.  The course includes a real life code development project.
+
 
 ## ❤️ Credits
 
