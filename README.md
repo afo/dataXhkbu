@@ -3,20 +3,18 @@
 </a>
 
 
-2 Day Masterclass at the University of Economics, Prague
+2.5 Day Masterclass, HKBU
 ======================
 
 
-### April 26 - 27, 2018
+### May 23-25, 2018
 
-
-### [Official Website: Secure your ticket](http://dataxprague.cz/)
-
-This is the official Github repository for the 2 day Masterclass.
+This is the official Github repository for the Masterclass.
 
 #### High level outline:
-* **Day 1:** Introduction to AI and Overview, Project Setup, Code Samples and Introduction to Data Analytics,  Business & Venture Applications, Blockchain overview, Get Value from your Data
-* **Day 2:** Innovation Leadership, Challenges in Data Science, Project Updates and Architecture, Big Data and Cloud Computing, The Future of Data Strategies, Advanced topics, Reflection and Next Steps
+* **Day 1:** Introduction to AI and Overview, Project Setup, Code Samples and Introduction to Data Analytics,  Business & Venture Applications, Get Value from your Data
+* **Day 2:** Innovation Leadership, Webscraping, Challenges in Data Science, Project Updates and Architecture, Big Data and Cloud Computing, The Future of Data Strategies, Advanced topics, Reflection and Next Steps
+* **Day 3:** Blockchain Overview, Blockchain Business Use Cases, Project Deliverables, Demo or Die, Staying Connected
 
 <a href='https://data-x.blog'>
 <img src='https://img.shields.io/badge/Data--X-Berkeley-yellow.svg'>
@@ -25,8 +23,7 @@ This is the official Github repository for the 2 day Masterclass.
 
 ## 📚 Resources
 
-* ## [Install Instructions and Prep Material](https://github.com/afo/dataXprague/blob/master/install-instructions/setup-installation-prague-masterclass.pdf)
-* ### <a href='https://join.slack.com/t/dataxprague/shared_invite/enQtMzUzMzkwMDkxMzgwLTAyMzlmODhlNDQzMTU1ZjQ2MWE2ZDRiZmVlNzJkNDRjZDg3ODIyNzJhNDQ5YjExYzdiN2RiZjg5YzI0MzY1OTM' target='_blank'> `dataXprague` Slack Channel   <img src='./imgs/slack.png' width='16px'></a>
+* ## [Install Instructions and Prep Material](https://github.com/afo/dataXprague/blob/master/install-instructions/setup-installation-masterclass.pdf)
 * ### [Data-X Official Website](https://data-x.blog/)
 * ##### [Data-X Network](https://data-x.blog/advisors/)
 * ##### [Data-X Resources](https://data-x.blog/resources/)
@@ -50,15 +47,10 @@ ___
 
 ## 📝 Masterclass Schedule
 
-**Time** | **Day 1: Breadth**  | **Day 2: Depth** |
-:--|:--|:-
-**Session1** <br> 9.00 - 10.20am | Program Introduction with Objectives (20mins)<br><br>Executive Level Overview of AI, ML, and Research (40mins)<br><br>Introduction to tools and installations (20mins) | Standard AI Development Stack: Numpy, pandas, matplotlib (40mins)<br><br>Getting and Working with Data (40mins)
-10.20 - 10.40am | *Coffee Break* | *Coffee Break*
-**Session2** <br> 10.40 - noon | **Define Projects:**<br>A. Learning Basics<br>B. Defining Work Project<br>C. Improving Existing Project<br><br>Finalize projects | **Project finalization**<br>Architecture Discussion and Feedback<br>+ Lowtech demo presentations (80mins)
-**Lunch** <br> 12.00 - 1.30pm | *Possible Discussion and Work Session* | *Possible Discussion and Work Session*
-**Session3** <br> 1.30 - 3.00pm | Innovation Leadership Overview (45 mins)<br><br> Realizing Blockchain's value: Bitcoin an indepth case study (45 mins) | **Advanced Topics**<br>Neural Networks, TensorFlow, Computer Vision, Keras and Cats vs Dogs! (50mins)<br><br> Strategies and tools to handle Big Data<br>- Spark, pyspark, Databricks, and AWS (30mins)
-3.00 - 3.30pm | *Coffee Break* | *Coffee Break*
-**Session4** <br> 3.30 - 5.00pm | **Machine Learning in Python:**<br>- Real World Data and Example (60 mins)<br>- ML Algorithm Comparison (20mins)<br>- Reflection and Q&A (10mins) |**Next Steps:**<br>- Learning Summary and Discussion<br>- Future Roadmap<br>- Staying Connected
+<p align='center'>
+   <img src="./imgs/sched_may18.png" alt="download" width='800px'>
+</p>
+<br>
 
 
 ## ▶️ Usage
@@ -81,8 +73,11 @@ git pull
 
 <h1 align="center">
   <br>
-   <img src="./imgs/instructors.png" alt="Data-X Instructors" width='550px'>
+   <img src="./imgs/people1.png" alt="Data-X Instructors" width='550px'>
   <br>
+</h1>
+<h1 align="center">
+   <img src="./imgs/people2.png" alt="Data-X Instructors" width='550px'>
 </h1>
 
 
