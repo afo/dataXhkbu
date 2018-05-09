@@ -23,7 +23,7 @@ This is the official Github repository for the Masterclass.
 
 ## 📚 Resources
 
-* ## [Install Instructions and Prep Material](https://github.com/afo/dataXprague/blob/master/install-instructions/setup-installation-masterclass.pdf)
+* ## [Install Instructions and Prep Material](https://github.com/afo/dataXhkbu/blob/master/install-instructions/setup-installation-masterclass.pdf)
 * ### [Data-X Official Website](https://data-x.blog/)
 * ##### [Data-X Network](https://data-x.blog/advisors/)
 * ##### [Data-X Resources](https://data-x.blog/resources/)
@@ -58,10 +58,10 @@ ___
 To download the material to your computer please [Install git](https://git-scm.com/downloads) and use the Terminal / Command Prompt to clone the repository.
 
 ```bash
-git clone https://github.com/afo/dataXprague/
+git clone https://github.com/afo/dataXhkbu/
 ```
 
-Every time the repository is updated, to get the most recent version, `cd` to the cloned `dataXprague` folder and run:
+Every time the repository is updated, to get the most recent version, `cd` to the cloned `dataXhkbu` folder and run:
 
 ```bash
 git pull
