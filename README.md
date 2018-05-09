@@ -3,7 +3,7 @@
 </a>
 
 
-2.5 Day Masterclass, HKBU
+Data-X Masterclass, HKBU
 ======================
 
 
@@ -89,9 +89,9 @@ git pull
 
 ## 📁 About the Bootcamp
 
-Today, the world is literally reinventing itself with Data and AI.  However, neither leading companies nor the world’s top students have the complete knowledge set to participate in this newly developing world.  This 2-day course provides the tools and understanding to boost any student’s ability to create the emerging data applications of the future.  This bootcamp is suitable for individuals interested in hands-on practical understanding of data science and application opportunities in new ventures, industry project areas, and potential support of research with data technologies.
+Today, the world is literally reinventing itself with Data and AI.  However, neither leading companies nor the world’s top students have the complete knowledge set to participate in this newly developing world.  This course provides the tools and understanding to boost any student’s ability to create the emerging data applications of the future.  This bootcamp is suitable for individuals interested in hands-on practical understanding of data science and application opportunities in new ventures, industry project areas, and potential support of research with data technologies.
 
-This bootcamp is set of intensive topics selected from the the Applied Data Science with Venture Applications Course at UC Berkeley (IEOR 135/290).  The bootcamp is a high paced immersion into data and data science principles in a uniquely practical approach.  The 2-day program contains theory segments, code samples in Python and in Jupyter Notebooks, and a real-life wide ranging project that can be started over the first 2 days with guidance for instructors.  The course includes a real life code development project.
+This bootcamp is set of intensive topics selected from the the Applied Data Science with Venture Applications Course at UC Berkeley (IEOR 135/290).  The bootcamp is a high paced immersion into data and data science principles in a uniquely practical approach.  The program contains theory segments, code samples in Python and in Jupyter Notebooks, and a real-life wide ranging project that can be started with guidance for instructors.  The course includes a real life code development project.
 
 
 ## ❤️ Credits
