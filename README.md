@@ -48,7 +48,7 @@ ___
 ## 📝 Masterclass Schedule
 
 <p align='center'>
-   <img src="./imgs/sched_may18.png" alt="download" width='800px'>
+   <img src="./imgs/sched.png" alt="download" width='800px'>
 </p>
 <br>
 
